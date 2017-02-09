@@ -1,0 +1,15 @@
+{
+  "name": "ActionCableChat",
+  "version": "1.0.0",
+  "description": "ActionCable demo app.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
